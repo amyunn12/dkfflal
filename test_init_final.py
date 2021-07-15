@@ -790,7 +790,7 @@ async def dbLoad():
 		print ("<불러오기 완료>")
 	else:
 		LoadChk = 1
-		print ("보스타임 정보가 없습니다.")
+		print ("오늘 하루일과 끝!")
 
 #고정보스 날짜저장
 async def FixedBossDateSave():
